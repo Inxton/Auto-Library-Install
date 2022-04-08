@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "Auto-Library-Install.sln",
+    "projects": [
+      "PLC\\PlcConnector\\PlcConnector.csproj"
+    ]
+  }
+}
